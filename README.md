@@ -1,5 +1,4 @@
 # Hotel Analysis 
-  Here is a summary report based on the SQL code provided:
 
 Overview:
 
